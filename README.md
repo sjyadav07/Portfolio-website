@@ -27,4 +27,3 @@ The design is clean, responsive, and minimal — focused on frontend development
 
 ⭐ **If you like this project, consider giving the repo a star!**
 
-## 📂 Project Structure
