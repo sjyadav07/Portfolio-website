@@ -25,21 +25,6 @@ The design is clean, responsive, and minimal — focused on frontend development
 
 ---
 
-/
-├── index.html
-├── style.css
-└── img/ (images & icons)
-
-
----
-
-## 📬 Contact
-**Email:** sjyadav2004@gmail.com  
-**GitHub:** https://github.com/sjyadav07  
-**LinkedIn:** https://www.linkedin.com/in/sachinyadav-it/
-
----
-
 ⭐ **If you like this project, consider giving the repo a star!**
 
 ## 📂 Project Structure
